@@ -14,5 +14,6 @@ Poject includes:
 
   
 Project 3.1 uses old cars data(2.1)csv
-project 3.2 uses laptop price data(2.2)csv
+
+Project 3.2 uses laptop price data(2.2)csv
   
