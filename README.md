@@ -2,12 +2,12 @@
 
 Poject includes:
 -dividing numerical and categorical variables
--for continous numerical variables:
+;for continous numerical variables:
   -correlation
   -pearson-value
   -regplots(regression plots)
   -residual plots
--for categorical variables:
+;for categorical variables:
   -seperating each associated variable as dataframe
   -boxplots
   -grouping
